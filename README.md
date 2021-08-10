@@ -1,3 +1,6 @@
+## KKK React Management System
+본 프로젝트는 KKK의 React Test시스템
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
